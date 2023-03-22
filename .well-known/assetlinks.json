@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.bounteous.myapp",
-               "sha256_cert_fingerprints": ["CE:1A:F9:AF:27:AE:CD:94:C1:09:06:58:5F:67:22:E3:01:64:FE:F5:B4:14:20:AC:A7:E6:7A:1D:1C:3B:02:71"] }
+               "sha256_cert_fingerprints": ["45:E7:C5:14:05:D3:B0:66:BD:49:1A:D9:60:24:71:A9:75:34:F1:8C:BD:F4:7F:60:7A:9A:08:A8:2C:25:21:B9"] }
 }]
